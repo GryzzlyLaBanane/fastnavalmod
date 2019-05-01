@@ -1,2 +1,2 @@
 # fastnavalmod
-hey i hate git
+i will indicate later what the mod change exactly
